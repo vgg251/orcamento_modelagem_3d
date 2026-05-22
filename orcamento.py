@@ -19,7 +19,6 @@ print(f'{'='*31}\n     VALOR DAS PEÇAS EM R$     \n{'='*31}')
 
 for i in range(len(orcamento)):
     print(f'Peça {i+1}: R${orcamento[i]}')
-
-#print('='*31)
+    
 print(f'{'='*31}\n{unico}')
 print(f'Quantidade de peças: {quantidade}')
