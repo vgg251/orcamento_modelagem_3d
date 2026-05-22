@@ -1,5 +1,5 @@
 <h2>� Descrição �</h2>
-<p>Projeto desenvolvido em Python para calcular orçamentos de peças produzidas em impressão 3D de forma simples e automática. O sistema utiliza o tempo de impressão e o peso de cada peça para gerar o valor individual dos modelos e o custo total do pedido, facilitando a precificação e reduzindo cálculos manuais.</p>
+<p>Projeto em Python para calcular orçamentos de peças produzidas para impressão 3D. O sistema utiliza o tempo de impressão e o peso de cada peça para gerar o valor individual dos modelos e o custo total do pedido.</p>
 
 ## � Tecnologias � 
 <div>
